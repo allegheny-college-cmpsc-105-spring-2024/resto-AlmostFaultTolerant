@@ -25,4 +25,4 @@ This restaurant uses currency of the galactic community, so planetary currency i
 
 ## <span style="color:green">Resources</span>
 
-### Reviews: 1) Ya it seemed fine idk what an Ena is so I only got gruel but the place seemed nice. 2)As the owner of the restuarant, I used 3 Enas to get meat and rice and it was mediocre at best 5/10
+### Reviews: 
