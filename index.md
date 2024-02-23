@@ -3,22 +3,7 @@ layout: post
 title: "about"
 ---
 
-
-
-- TODO: look at the raw markdown below for examples of making links, bold, colors, quotes, etc.
-- TODO: replace the content of this file with a description of the concept of your restaurant
-  - this markdown file will become the home page of the website automatically, so include
-    information that you think belongs on the home page.
-  - remember, two colleagues will review your site!
-  - use good markdown style
-  - the website formatting is limited to markdown, but
-  [markdown can still do a lot](https://www.markdownguide.org/tools/jekyll/)
-- TODO: As a place holder, add a heading at the end for `Reviews` and make up two quotes to
-  put in this section.
-  - Use Markdown syntax for the quotes.
-  - after the review phase, you can replace this with two real quotes from your fellow
-  food critics.
-- TODO: finish up by removing _all_ unneeded material below line 6.
+If you want good food, go somewhere else. We have bad food for a currency that you don't have.
 
 ![logo](./assets/images/magnifying-glass-logo.jpeg){:width="200"}
 
