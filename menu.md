@@ -9,13 +9,26 @@ nav: true
 
 this is the menu
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
-
 ### menu item 1
 
-#### lettuce
+#### Raw Meat(Cow)
 
-- price: $100
+- price: 2 Grebbles
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+![meat](assets/images/meat.jpeg){:width="200"}
+
+### menu item 2
+
+#### Rice(White)
+
+- price: 1 Grebbles
+
+![rice](assets/images/rice.jpeg){:width="200"}
+
+### menu item 3
+
+#### Gruel(Barley)
+
+- price: a crisp high five 
+
+![gruel](assets/images/gruel.jpeg){:width="200"}
