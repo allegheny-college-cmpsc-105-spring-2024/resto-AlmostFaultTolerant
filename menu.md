@@ -13,7 +13,7 @@ this is the menu
 
 #### Raw Meat(Cow)
 
-- price: 2 Enas
+- price: 2 Grebbles
 
 ![meat](assets/images/meat.jpeg){:width="200"}
 
@@ -21,7 +21,7 @@ this is the menu
 
 #### Rice(White)
 
-- price: 1 Ena
+- price: 1 Grebbles
 
 ![rice](assets/images/rice.jpeg){:width="200"}
 

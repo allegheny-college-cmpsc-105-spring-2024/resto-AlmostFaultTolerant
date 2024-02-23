@@ -6,7 +6,8 @@ nav: true
 ---
 
 # Contact Us
-Phone Number = 3 \n
+Phone Number = 3
+
 Email = "hi@:3.com"
 
 ## Hours

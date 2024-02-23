@@ -25,4 +25,6 @@ This restaurant uses currency of the galactic community, so planetary currency i
 
 ## <span style="color:green">Resources</span>
 
-### Reviews: 
+### Reviews: Its fine I guess - satisfied customer
+
+# I'm the owner and its mid af - the owner
