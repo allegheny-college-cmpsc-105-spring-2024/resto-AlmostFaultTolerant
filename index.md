@@ -26,13 +26,9 @@ title: "about"
 
 ## <span style="color:green">Course Description</span>
 
-## 
+## Description
 
-_Prerequisite:_ None
-
-_Distribution Requirements:_ QR, SP.
-
-DR tag rationale: This course will primarily focus on methods of data collection, foundational data analysis of numerical data, and visualizations of such data. Additionally, students will participate in the scientific process during the exploratory data analysis and apply scientific reasoning to analyze and synthesize data.
+This restaurant uses currency of the galactic community, so planetary currency is useless here. Unfortunatly, we ave to find supplies on the planet, and bad ones at that, so it makes a bad product for a high price; a great combination.
 
 ## <span style="color:green">Learning Outcomes</span>
 
@@ -41,25 +37,6 @@ DR tag rationale: This course will primarily focus on methods of data collection
 
 
 ## <span style="color:green">Schedule at-a-glance</span>
-
-- **Week One**: January 17 to January 19: Setup
-- **Week Two**: January 22 to January 26: Intro to Visualization Tools
-- **Week Three**: January 29 to February 02: Data Transformations
-- **Week Four**: February 5 to February 9: Storytelling with Data
-- **Week Five**: February 12 to February 16: Google Analytics + Dashboards
-- **Week Six**: February 19 to February 23: BI suites
-- **Week Seven**: February 26 to March 01: Stats Concepts
-- **Spring Break March 04 to March 08**
-- **Week Eight**: March 11 to March 15: [Introduction to Python](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-- **Week Nine**: March 18 to March 22: Introduction to Numpy
-- **Week Ten**: March 25 to March 29: [Matplotlib](https://matplotlib.org/stable/gallery/index.html)
-- **Week Eleven**: April 1 to April 5: Exploratory Data Analysis and Scientific Process
-- **Week Twelve**: April 8 to April 12: Sonification and Auditory Display
-- **Week Thirteen**: April 15 to April 19: Project Consulting
-- **Week Fourteen**: April 22 to April 26: Projects Continued
-- **Week Fifteen**: April 29: TBD
-- **Final Examination**: *Examination Code*: J, *Date*: Tuesday, May 7nd, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/spring-2024-final-exam-schedule/)
-    - Presentations
 
 ## <span style="color:green">Resources</span>
 
