@@ -14,8 +14,24 @@ this is the menu
 
 ### menu item 1
 
-#### lettuce
+#### Meat
 
-- price: $100
+- price: 2 Enas
+
+![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+
+### menu item 2
+
+#### Rice
+
+- price: 1 Ena
+
+![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+
+### menu item 3
+
+#### Gruel
+
+- price: a crisp high five 
 
 ![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
